@@ -5,10 +5,12 @@
     <ClCompile Include="InputClass.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="SystemClass.cpp" />
+    <ClCompile Include="D3DClass.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GraphicsClass.h" />
     <ClInclude Include="InputClass.h" />
     <ClInclude Include="SystemClass.h" />
+    <ClInclude Include="D3DClass.h" />
   </ItemGroup>
 </Project>
